@@ -1,2 +1,2 @@
 # albert-git
-A demo repo for epam devops school
+A demo repo for cool epam devops school
